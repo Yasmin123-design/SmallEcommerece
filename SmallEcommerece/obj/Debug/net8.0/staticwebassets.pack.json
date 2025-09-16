@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\images\\7f4867d1-bf09-4161-98f8-124fb55d6102.jpg",
+      "PackagePath": "staticwebassets\\images\\7f4867d1-bf09-4161-98f8-124fb55d6102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\images\\dba65b91-3aba-48eb-bc9a-9ac328465001.png",
+      "PackagePath": "staticwebassets\\images\\dba65b91-3aba-48eb-bc9a-9ac328465001.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SmallEcommerece.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SmallEcommerece.props",
+      "PackagePath": "build\\SmallEcommerece.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SmallEcommerece.props",
+      "PackagePath": "buildMultiTargeting\\SmallEcommerece.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SmallEcommerece.props",
+      "PackagePath": "buildTransitive\\SmallEcommerece.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

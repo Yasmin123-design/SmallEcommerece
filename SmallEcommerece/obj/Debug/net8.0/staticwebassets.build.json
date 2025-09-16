@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "8UpMGbdQwbdX4zSD4PhQfMhspbPW+pUDnHSJ1ITTUQU=",
+  "Source": "SmallEcommerece",
+  "BasePath": "_content/SmallEcommerece",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SmallEcommerece\\wwwroot",
+      "Source": "SmallEcommerece",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\",
+      "BasePath": "_content/SmallEcommerece",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\images\\7f4867d1-bf09-4161-98f8-124fb55d6102.jpg",
+      "SourceId": "SmallEcommerece",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\",
+      "BasePath": "_content/SmallEcommerece",
+      "RelativePath": "images/7f4867d1-bf09-4161-98f8-124fb55d6102.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7f4867d1-bf09-4161-98f8-124fb55d6102.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\images\\dba65b91-3aba-48eb-bc9a-9ac328465001.png",
+      "SourceId": "SmallEcommerece",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\",
+      "BasePath": "_content/SmallEcommerece",
+      "RelativePath": "images/dba65b91-3aba-48eb-bc9a-9ac328465001.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dba65b91-3aba-48eb-bc9a-9ac328465001.png"
+    }
+  ]
+}
