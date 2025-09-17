@@ -144,3 +144,4 @@ C:\Users\Lenovo\source\repos\API\SmallEcommerece\SmallEcommerece\obj\Debug\net8.
 C:\Users\Lenovo\source\repos\API\SmallEcommerece\SmallEcommerece\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\Lenovo\source\repos\API\SmallEcommerece\SmallEcommerece\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Lenovo\source\repos\API\SmallEcommerece\SmallEcommerece\bin\Debug\net8.0\SmallEcommerece.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\API\SmallEcommerece\SmallEcommerece\obj\Debug\net8.0\SmallEcommerece.sourcelink.json

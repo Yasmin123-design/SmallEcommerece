@@ -76,7 +76,8 @@ namespace SmallEcommerece
 
             app.UseAuthentication();
             app.UseAuthorization();
-            
+
+            app.UseStaticFiles(); 
 
             app.MapControllers();
 

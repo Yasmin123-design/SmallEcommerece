@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8UpMGbdQwbdX4zSD4PhQfMhspbPW+pUDnHSJ1ITTUQU=",
+  "Hash": "4EbYR5vHPLUGkq9qzHzxgNDC/c2hrBLra1wHe1maGpg=",
   "Source": "SmallEcommerece",
   "BasePath": "_content/SmallEcommerece",
   "Mode": "Default",
@@ -36,12 +36,12 @@
       "OriginalItemSpec": "wwwroot\\images\\7f4867d1-bf09-4161-98f8-124fb55d6102.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\images\\dba65b91-3aba-48eb-bc9a-9ac328465001.png",
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\images\\b30fc086-8afe-45b7-b2cc-e0d82a9a11e0.png",
       "SourceId": "SmallEcommerece",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\API\\SmallEcommerece\\SmallEcommerece\\wwwroot\\",
       "BasePath": "_content/SmallEcommerece",
-      "RelativePath": "images/dba65b91-3aba-48eb-bc9a-9ac328465001.png",
+      "RelativePath": "images/b30fc086-8afe-45b7-b2cc-e0d82a9a11e0.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dba65b91-3aba-48eb-bc9a-9ac328465001.png"
+      "OriginalItemSpec": "wwwroot\\images\\b30fc086-8afe-45b7-b2cc-e0d82a9a11e0.png"
     }
   ]
 }
